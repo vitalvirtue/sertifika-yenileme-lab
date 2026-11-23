@@ -1,0 +1,16 @@
+Saving debug log to …/f6/cb/logs/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f6/cb/config/renewal/f6-6.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Renewing an existing certificate for f6-6.lab.internal
+Hook 'deploy-hook' reported error code 3
+Hook 'deploy-hook' ran with error output:
+ 2026/11/23 19:07:59 [emerg] 10490#10490: open() "…/f6/nginx-tls.conf" failed (2: No such file or directory)
+ SUNUM-DOGRULAMA: servis yeni sertifikayi sunmuyor, geri alindi
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Congratulations, all renewals succeeded: 
+  …/f6/cb/config/live/f6-6.lab.internal/fullchain.pem (success)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

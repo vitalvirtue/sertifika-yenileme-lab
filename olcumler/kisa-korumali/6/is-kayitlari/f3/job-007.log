@@ -1,0 +1,28 @@
+Saving debug log to …/f3/cb/logs/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f3/cb/config/renewal/f3-6.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Renewing an existing certificate for f3-6.lab.internal
+Hook '--manual-auth-hook' for f3-6.lab.internal reported error code 22
+Hook '--manual-auth-hook' for f3-6.lab.internal ran with error output:
+ curl: (22) The requested URL returned error: 409
+
+Certbot failed to authenticate some domains (authenticator: manual). The Certificate Authority reported these problems:
+  Identifier: f3-6.lab.internal
+  Type:   unauthorized
+  Detail: No TXT records found for DNS challenge
+
+Hint: The Certificate Authority failed to verify the DNS TXT records created by the --manual-auth-hook. Ensure that this hook is functioning correctly and that it waits a sufficient duration of time for DNS propagation. Refer to "certbot --help manual" and the Certbot User Guide.
+
+Hook '--manual-cleanup-hook' for f3-6.lab.internal ran with output:
+ {"ok": true}
+Failed to renew certificate f3-6.lab.internal with error: Some challenges have failed.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+All renewals failed. The following certificates could not be renewed:
+  …/f3/cb/config/live/f3-6.lab.internal/fullchain.pem (failure)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1 renew failure(s), 0 parse failure(s)
+Ask for help or search for solutions at https://community.letsencrypt.org. See the logfile …/f3/cb/logs/letsencrypt.log or re-run Certbot with -v for more details.

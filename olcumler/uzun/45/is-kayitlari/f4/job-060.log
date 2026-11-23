@@ -1,0 +1,14 @@
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f4/cb/config/renewal/f4-45.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Saving debug log to …/f4/cb/logs/letsencrypt.log
+Failed to renew certificate f4-45.lab.internal with error: HTTPSConnectionPool(host='127.0.0.1', port=16002): Max retries exceeded with url: /dir (Caused by NewConnectionError("HTTPSConnection(host='127.0.0.1', port=16002): Failed to establish a new connection: [Errno 111] Connection refused"))
+All renewals failed. The following certificates could not be renewed:
+  …/f4/cb/config/live/f4-45.lab.internal/fullchain.pem (failure)
+1 renew failure(s), 0 parse failure(s)
+Ask for help or search for solutions at https://community.letsencrypt.org. See the logfile …/f4/cb/logs/letsencrypt.log or re-run Certbot with -v for more details.

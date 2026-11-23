@@ -1,0 +1,179 @@
+{"t": 1795449828.3955417, "host": "f0", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449828.397135, "host": "f0", "ev": "ilk-duzenleme", "not_before": 1795449827.0, "not_after": 1795449946.0}
+{"t": 1795449830.8599155, "host": "f1", "ev": "yetkilendirme-kapatildi", "adet": 2}
+{"t": 1795449830.861009, "host": "f1", "ev": "ilk-duzenleme", "not_before": 1795449829.0, "not_after": 1795449948.0}
+{"t": 1795449833.3420975, "host": "f2", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449833.3435388, "host": "f2", "ev": "ilk-duzenleme", "not_before": 1795449832.0, "not_after": 1795449951.0}
+{"t": 1795449835.8139043, "host": "f3", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449835.814865, "host": "f3", "ev": "ilk-duzenleme", "not_before": 1795449834.0, "not_after": 1795449953.0}
+{"t": 1795449838.3210983, "host": "f4", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449838.32233, "host": "f4", "ev": "ilk-duzenleme", "not_before": 1795449837.0, "not_after": 1795449956.0}
+{"t": 1795449840.76413, "host": "f5", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449840.765232, "host": "f5", "ev": "ilk-duzenleme", "not_before": 1795449839.0, "not_after": 1795449958.0}
+{"t": 1795449843.1952665, "host": "f6", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449843.1962383, "host": "f6", "ev": "ilk-duzenleme", "not_before": 1795449842.0, "not_after": 1795449961.0}
+{"t": 1795449845.5958867, "host": "f7", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449845.5971026, "host": "f7", "ev": "ilk-duzenleme", "not_before": 1795449844.0, "not_after": 1795449963.0}
+{"t": 1795449848.099204, "host": "f8", "ev": "yetkilendirme-kapatildi", "adet": 1}
+{"t": 1795449848.1003218, "host": "f8", "ev": "ilk-duzenleme", "not_before": 1795449846.0, "not_after": 1795449965.0}
+{"t": 1795449848.10111, "host": "f1", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 1}
+{"t": 1795449848.1008255, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.34, "n": 1}
+{"t": 1795449848.3815415, "host": "f2", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 1}
+{"t": 1795449848.4447966, "host": "f3", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 1}
+{"t": 1795449848.663946, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.3, "n": 2}
+{"t": 1795449849.500187, "host": "f1", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.3, "n": 2}
+{"t": 1795449852.300203, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 1}
+{"t": 1795449853.0003774, "host": "f1", "ev": "ariza-enjekte", "label": "san-dns-silindi"}
+{"t": 1795449854.2001562, "host": "f2", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 2}
+{"t": 1795449855.6002748, "host": "f3", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 2}
+{"t": 1795449856.0745816, "host": "f2", "ev": "ariza-enjekte", "label": "dns-kimlik-bilgisi"}
+{"t": 1795449856.1002188, "host": "f4", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.35, "n": 1}
+{"t": 1795449858.073671, "host": "f3", "ev": "ariza-enjekte", "label": "cname-cakismasi"}
+{"t": 1795449858.300175, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.34, "n": 3}
+{"t": 1795449859.5001378, "host": "f1", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.3, "n": 3}
+{"t": 1795449860.5001702, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.25, "n": 1}
+{"t": 1795449861.057798, "host": "f4", "ev": "ariza-enjekte", "label": "ca-erisilemez"}
+{"t": 1795449861.2001295, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 1}
+{"t": 1795449862.3001246, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.3, "n": 2}
+{"t": 1795449863.0060182, "host": "f5", "ev": "ariza-enjekte", "label": "kurulmadi"}
+{"t": 1795449863.10021, "host": "f8", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 1}
+{"t": 1795449864.2001314, "host": "f2", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 3}
+{"t": 1795449865.6001754, "host": "f3", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 3}
+{"t": 1795449866.1511006, "host": "f6", "ev": "ariza-enjekte", "label": "yeniden-yuklenmedi"}
+{"t": 1795449866.100185, "host": "f4", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 2}
+{"t": 1795449868.120022, "host": "f7", "ev": "ariza-enjekte", "label": "yanlis-zincir"}
+{"t": 1795449868.300217, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.32, "n": 4}
+{"t": 1795449869.5001922, "host": "f1", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 4}
+{"t": 1795449870.178131, "host": "f8", "ev": "ariza-enjekte", "label": "zamanlayici-kapali"}
+{"t": 1795449870.500166, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 2}
+{"t": 1795449871.2001026, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 2}
+{"t": 1795449872.3001835, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 3}
+{"t": 1795449874.20017, "host": "f2", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 4}
+{"t": 1795449875.6002023, "host": "f3", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 4}
+{"t": 1795449876.100155, "host": "f4", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 3}
+{"t": 1795449878.300114, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 5}
+{"t": 1795449879.5002003, "host": "f1", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.36, "n": 5}
+{"t": 1795449880.5001411, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.37, "n": 3}
+{"t": 1795449881.200214, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.26, "n": 3}
+{"t": 1795449882.300287, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.37, "n": 4}
+{"t": 1795449884.2001538, "host": "f2", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.25, "n": 5}
+{"t": 1795449885.6001284, "host": "f3", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 5}
+{"t": 1795449886.1001537, "host": "f4", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.36, "n": 4}
+{"t": 1795449889.9814553, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449888.300236, "host": "f0", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.4, "n": 6}
+{"t": 1795449890.7035732, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 4}
+{"t": 1795449889.5002143, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.86, "n": 6}
+{"t": 1795449891.2001493, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.34, "n": 4}
+{"t": 1795449892.3001528, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 5}
+{"t": 1795449894.5855527, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449894.2001328, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.36, "n": 6}
+{"t": 1795449895.986985, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449896.1002421, "host": "f4", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.23, "n": 5}
+{"t": 1795449895.6001086, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.4, "n": 6}
+{"t": 1795449898.300151, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.29, "n": 7}
+{"t": 1795449899.790686, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449900.507858, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.25, "n": 5}
+{"t": 1795449899.500238, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.83, "n": 7}
+{"t": 1795449901.2001579, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 5}
+{"t": 1795449904.5948193, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449902.3001804, "host": "f5", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.34, "n": 6}
+{"t": 1795449904.2001579, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.39, "n": 7}
+{"t": 1795449905.9961913, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449906.100199, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.34, "n": 6}
+{"t": 1795449905.600098, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.34, "n": 7}
+{"t": 1795449908.300114, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.24, "n": 8}
+{"t": 1795449909.9995017, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449909.5001888, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.89, "n": 8}
+{"t": 1795449910.500133, "host": "f6", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.52, "n": 6}
+{"t": 1795449913.018226, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.43, "n": 7}
+{"t": 1795449911.3854647, "host": "f7", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.35, "n": 6}
+{"t": 1795449914.6051955, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449914.20018, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.37, "n": 8}
+{"t": 1795449916.006592, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449916.1001956, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.32, "n": 7}
+{"t": 1795449915.6001616, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.36, "n": 8}
+{"t": 1795449918.300164, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 9}
+{"t": 1795449920.011922, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449920.5002036, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.23, "n": 7}
+{"t": 1795449919.5001445, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.39, "n": 9}
+{"t": 1795449921.2001255, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.38, "n": 7}
+{"t": 1795449922.3001952, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.3, "n": 8}
+{"t": 1795449924.6160767, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449924.2002282, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.41, "n": 9}
+{"t": 1795449926.017557, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449926.1001747, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.4, "n": 8}
+{"t": 1795449925.6001384, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.39, "n": 9}
+{"t": 1795449928.3001342, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.33, "n": 10}
+{"t": 1795449930.0232947, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449930.5002334, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.3, "n": 8}
+{"t": 1795449929.5001817, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.47, "n": 10}
+{"t": 1795449931.2002044, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 8}
+{"t": 1795449932.300222, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.26, "n": 9}
+{"t": 1795449934.6270406, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449934.20014, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.42, "n": 10}
+{"t": 1795449936.03228, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449936.100243, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.34, "n": 9}
+{"t": 1795449935.6003485, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.43, "n": 10}
+{"t": 1795449938.3001318, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 11}
+{"t": 1795449939.8358927, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449940.5002837, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.26, "n": 9}
+{"t": 1795449939.500192, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.33, "n": 11}
+{"t": 1795449941.2001681, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 9}
+{"t": 1795449942.3002212, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 10}
+{"t": 1795449944.6412513, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449944.2002199, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.42, "n": 11}
+{"t": 1795449946.0424454, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449946.1001585, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.35, "n": 10}
+{"t": 1795449945.60019, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.41, "n": 11}
+{"t": 1795449948.300172, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.29, "n": 12}
+{"t": 1795449950.045818, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449950.500146, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.32, "n": 10}
+{"t": 1795449949.5004084, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.42, "n": 12}
+{"t": 1795449951.2002466, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 10}
+{"t": 1795449952.3001251, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.29, "n": 11}
+{"t": 1795449954.6520264, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449954.200158, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.42, "n": 12}
+{"t": 1795449956.053305, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449956.1002142, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.39, "n": 11}
+{"t": 1795449955.6001134, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.42, "n": 12}
+{"t": 1795449959.8600304, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449959.50014, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.39, "n": 13}
+{"t": 1795449960.8862233, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.25, "n": 11}
+{"t": 1795449958.3002524, "host": "f0", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.92, "n": 13}
+{"t": 1795449961.2001638, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 11}
+{"t": 1795449962.3001256, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.28, "n": 12}
+{"t": 1795449964.6669648, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449964.2001946, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.47, "n": 13}
+{"t": 1795449966.069384, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449966.1001053, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.31, "n": 12}
+{"t": 1795449965.600211, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.35, "n": 13}
+{"t": 1795449968.3001513, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.29, "n": 14}
+{"t": 1795449969.8729851, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449970.5002291, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.27, "n": 12}
+{"t": 1795449969.5001917, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.89, "n": 14}
+{"t": 1795449971.2002068, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.29, "n": 12}
+{"t": 1795449974.4814389, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449972.300215, "host": "f5", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.43, "n": 13}
+{"t": 1795449974.2001762, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.34, "n": 14}
+{"t": 1795449976.0829709, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449976.1001132, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.3, "n": 13}
+{"t": 1795449975.600186, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.38, "n": 14}
+{"t": 1795449978.300169, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 15}
+{"t": 1795449979.8868454, "host": "f1", "ev": "ca-hata", "ident": "f1-6.lab.internal"}
+{"t": 1795449979.5001626, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.87, "n": 15}
+{"t": 1795449980.500163, "host": "f6", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.47, "n": 13}
+{"t": 1795449982.968141, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 14}
+{"t": 1795449981.3670385, "host": "f7", "ev": "is", "rc": 0, "sonuc": "basarili", "sure": 2.46, "n": 13}
+{"t": 1795449984.6930745, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449984.2001374, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.4, "n": 15}
+{"t": 1795449986.0946414, "host": "f3", "ev": "ca-hata", "ident": "f3-6.lab.internal"}
+{"t": 1795449986.1002367, "host": "f4", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 0.45, "n": 14}
+{"t": 1795449985.600123, "host": "f3", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.49, "n": 15}
+{"t": 1795449988.300118, "host": "f0", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.36, "n": 16}
+{"t": 1795449989.8995285, "host": "f1", "ev": "ca-hata", "ident": "legacy-f1-6.lab.internal"}
+{"t": 1795449990.5001721, "host": "f6", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.33, "n": 14}
+{"t": 1795449989.5001466, "host": "f1", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.87, "n": 16}
+{"t": 1795449991.2001352, "host": "f7", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.33, "n": 14}
+{"t": 1795449992.3001823, "host": "f5", "ev": "is", "rc": 0, "sonuc": "bos", "sure": 0.31, "n": 15}
+{"t": 1795449994.7039, "host": "f2", "ev": "ca-hata", "ident": "f2-6.lab.internal"}
+{"t": 1795449994.2001336, "host": "f2", "ev": "is", "rc": 1, "sonuc": "hata", "sure": 1.39, "n": 16}

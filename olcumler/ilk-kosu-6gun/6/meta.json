@@ -1,0 +1,89 @@
+{
+ "days": 6,
+ "scale": 20.0,
+ "life_s": 120.0,
+ "renew_before_days": 3,
+ "hosts": [
+  {
+   "fid": "f0",
+   "label": "kontrol",
+   "method": "http",
+   "name": "f0-6.lab.internal",
+   "ip": "127.0.3.10",
+   "t0": 1795448356.0,
+   "exp1": 1795448475.0
+  },
+  {
+   "fid": "f1",
+   "label": "san-dns-silindi",
+   "method": "http",
+   "name": "f1-6.lab.internal",
+   "ip": "127.0.3.11",
+   "t0": 1795448359.0,
+   "exp1": 1795448478.0
+  },
+  {
+   "fid": "f2",
+   "label": "dns-kimlik-bilgisi",
+   "method": "dns",
+   "name": "f2-6.lab.internal",
+   "ip": "127.0.3.12",
+   "t0": 1795448361.0,
+   "exp1": 1795448480.0
+  },
+  {
+   "fid": "f3",
+   "label": "cname-cakismasi",
+   "method": "dns",
+   "name": "f3-6.lab.internal",
+   "ip": "127.0.3.13",
+   "t0": 1795448364.0,
+   "exp1": 1795448483.0
+  },
+  {
+   "fid": "f4",
+   "label": "ca-erisilemez",
+   "method": "http",
+   "name": "f4-6.lab.internal",
+   "ip": "127.0.3.14",
+   "t0": 1795448366.0,
+   "exp1": 1795448485.0
+  },
+  {
+   "fid": "f5",
+   "label": "kurulmadi",
+   "method": "http",
+   "name": "f5-6.lab.internal",
+   "ip": "127.0.3.15",
+   "t0": 1795448369.0,
+   "exp1": 1795448488.0
+  },
+  {
+   "fid": "f6",
+   "label": "yeniden-yuklenmedi",
+   "method": "http",
+   "name": "f6-6.lab.internal",
+   "ip": "127.0.3.16",
+   "t0": 1795448371.0,
+   "exp1": 1795448490.0
+  },
+  {
+   "fid": "f7",
+   "label": "yanlis-zincir",
+   "method": "http",
+   "name": "f7-6.lab.internal",
+   "ip": "127.0.3.17",
+   "t0": 1795448374.0,
+   "exp1": 1795448493.0
+  },
+  {
+   "fid": "f8",
+   "label": "zamanlayici-kapali",
+   "method": "http",
+   "name": "f8-6.lab.internal",
+   "ip": "127.0.3.18",
+   "t0": 1795448376.0,
+   "exp1": 1795448495.0
+  }
+ ]
+}

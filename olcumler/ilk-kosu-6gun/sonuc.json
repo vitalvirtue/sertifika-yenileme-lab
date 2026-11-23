@@ -1,0 +1,221 @@
+{
+ "6": {
+  "days": 6,
+  "scale": 20.0,
+  "renew_before": 3,
+  "hosts": {
+   "f0": {
+    "label": "kontrol",
+    "inject_day": null,
+    "outage_day": null,
+    "outage_cause": "",
+    "first_renew_day": 3.2,
+    "jobs": 16,
+    "jobs_failed_rc": 0,
+    "jobs_ok_renew": 2,
+    "lead_days": {
+     "cikis_kodu": null,
+     "nabiz": null,
+     "ca_hata": null,
+     "disk_oran": null,
+     "sunulan_oran": null,
+     "sunulan_30": "yanlis-alarm",
+     "sunulan_14": "yanlis-alarm",
+     "sunulan_7": "yanlis-alarm",
+     "duz_sun": null,
+     "zincir": null
+    },
+    "alarm_frac": {
+     "30": 1.0,
+     "14": 1.0,
+     "7": 1.0,
+     "oran": 0.0
+    }
+   },
+   "f1": {
+    "label": "san-dns-silindi",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": 3.0,
+    "jobs": 16,
+    "jobs_failed_rc": 11,
+    "jobs_ok_renew": 0,
+    "lead_days": {
+     "cikis_kodu": 3.0,
+     "nabiz": null,
+     "ca_hata": 3.0,
+     "disk_oran": 2.0,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.1,
+     "sunulan_14": 5.1,
+     "sunulan_7": 5.1,
+     "duz_sun": null,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f2": {
+    "label": "dns-kimlik-bilgisi",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": 3.2,
+    "jobs": 15,
+    "jobs_failed_rc": 10,
+    "jobs_ok_renew": 0,
+    "lead_days": {
+     "cikis_kodu": 2.8,
+     "nabiz": null,
+     "ca_hata": 2.8,
+     "disk_oran": 2.0,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.2,
+     "sunulan_14": 5.2,
+     "sunulan_7": 5.2,
+     "duz_sun": null,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f3": {
+    "label": "cname-cakismasi",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": 3.2,
+    "jobs": 15,
+    "jobs_failed_rc": 10,
+    "jobs_ok_renew": 0,
+    "lead_days": {
+     "cikis_kodu": 2.8,
+     "nabiz": null,
+     "ca_hata": 2.7,
+     "disk_oran": 2.0,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.3,
+     "sunulan_14": 5.3,
+     "sunulan_7": 5.3,
+     "duz_sun": null,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f4": {
+    "label": "ca-erisilemez",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": 3.1,
+    "jobs": 15,
+    "jobs_failed_rc": 10,
+    "jobs_ok_renew": 0,
+    "lead_days": {
+     "cikis_kodu": 2.9,
+     "nabiz": null,
+     "ca_hata": null,
+     "disk_oran": 2.0,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.4,
+     "sunulan_14": 5.4,
+     "sunulan_7": 5.4,
+     "duz_sun": null,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f5": {
+    "label": "kurulmadi",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": 3.4,
+    "jobs": 14,
+    "jobs_failed_rc": 0,
+    "jobs_ok_renew": 2,
+    "lead_days": {
+     "cikis_kodu": null,
+     "nabiz": null,
+     "ca_hata": null,
+     "disk_oran": 2.0,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.6,
+     "sunulan_14": 5.6,
+     "sunulan_7": 5.6,
+     "duz_sun": 2.0,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f6": {
+    "label": "yeniden-yuklenmedi",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": 3.0,
+    "jobs": 15,
+    "jobs_failed_rc": 0,
+    "jobs_ok_renew": 2,
+    "lead_days": {
+     "cikis_kodu": null,
+     "nabiz": null,
+     "ca_hata": null,
+     "disk_oran": null,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.7,
+     "sunulan_14": 5.7,
+     "sunulan_7": 5.7,
+     "duz_sun": 2.4,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f7": {
+    "label": "yanlis-zincir",
+    "inject_day": 1.2,
+    "outage_day": 3.2,
+    "outage_cause": "unable to get local issuer certificate",
+    "first_renew_day": 3.0,
+    "jobs": 15,
+    "jobs_failed_rc": 0,
+    "jobs_ok_renew": 2,
+    "lead_days": {
+     "cikis_kodu": null,
+     "nabiz": null,
+     "ca_hata": null,
+     "disk_oran": null,
+     "sunulan_oran": null,
+     "sunulan_30": 3.0,
+     "sunulan_14": 3.0,
+     "sunulan_7": 3.0,
+     "duz_sun": null,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   },
+   "f8": {
+    "label": "zamanlayici-kapali",
+    "inject_day": 1.2,
+    "outage_day": 6.0,
+    "outage_cause": "certificate has expired",
+    "first_renew_day": -89772418.8,
+    "jobs": 1,
+    "jobs_failed_rc": 0,
+    "jobs_ok_renew": 0,
+    "lead_days": {
+     "cikis_kodu": null,
+     "nabiz": 3.5,
+     "ca_hata": null,
+     "disk_oran": 2.0,
+     "sunulan_oran": 2.0,
+     "sunulan_30": 5.9,
+     "sunulan_14": 5.9,
+     "sunulan_7": 5.9,
+     "duz_sun": null,
+     "zincir": 0.0
+    },
+    "alarm_frac": {}
+   }
+  }
+ }
+}

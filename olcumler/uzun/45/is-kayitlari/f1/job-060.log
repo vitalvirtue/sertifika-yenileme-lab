@@ -1,0 +1,23 @@
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f1/cb/config/renewal/f1-45.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Renewing an existing certificate for f1-45.lab.internal and legacy-f1-45.lab.internal
+
+Certbot failed to authenticate some domains (authenticator: standalone). The Certificate Authority reported these problems:
+  Identifier: legacy-f1-45.lab.internal
+  Type:   connection
+  Detail: Get "http://legacy-f1-45.lab.internal:80/.well-known/acme-challenge/P5Wz8QlNPuhK-g5Wnqk2UZyzemc1LkryRd9ubI55mA4": could not resolve URL "http://legacy-f1-45.lab.internal:80/.well-known/acme-challenge/P5Wz8QlNPuhK-g5Wnqk2UZyzemc1LkryRd9ubI55mA4"
+
+Hint: The Certificate Authority failed to download the challenge files from the temporary standalone webserver started by Certbot on 127.0.2.11:80. Ensure that the listed domains point to this machine and that it can accept inbound connections from the internet.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Saving debug log to …/f1/cb/logs/letsencrypt.log
+Failed to renew certificate f1-45.lab.internal with error: Some challenges have failed.
+All renewals failed. The following certificates could not be renewed:
+  …/f1/cb/config/live/f1-45.lab.internal/fullchain.pem (failure)
+1 renew failure(s), 0 parse failure(s)
+Ask for help or search for solutions at https://community.letsencrypt.org. See the logfile …/f1/cb/logs/letsencrypt.log or re-run Certbot with -v for more details.

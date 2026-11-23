@@ -1,0 +1,15 @@
+Saving debug log to …/f7/cb/logs/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f7/cb/config/renewal/f7-6.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Renewing an existing certificate for f7-6.lab.internal
+Hook 'deploy-hook' reported error code 2
+Hook 'deploy-hook' ran with error output:
+ ON-KONTROL: zincir dogrulanamadi, kurulum iptal edildi
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Congratulations, all renewals succeeded: 
+  …/f7/cb/config/live/f7-6.lab.internal/fullchain.pem (success)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

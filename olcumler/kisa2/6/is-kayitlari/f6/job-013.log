@@ -1,0 +1,15 @@
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f6/cb/config/renewal/f6-6.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Renewing an existing certificate for f6-6.lab.internal
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Congratulations, all renewals succeeded: 
+  …/f6/cb/config/live/f6-6.lab.internal/fullchain.pem (success)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Saving debug log to …/f6/cb/logs/letsencrypt.log
+Hook 'deploy-hook' reported error code 1
+Hook 'deploy-hook' ran with error output:
+ 2026/11/23 19:22:47 [emerg] 14772#14772: open() "…/f6/nginx-tls.conf" failed (2: No such file or directory)

@@ -1,0 +1,14 @@
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing
+…/f7/cb/config/renewal/f7-6.lab.internal.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Renewing an existing certificate for f7-6.lab.internal
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Congratulations, all renewals succeeded: 
+  …/f7/cb/config/live/f7-6.lab.internal/fullchain.pem (success)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Saving debug log to …/f7/cb/logs/letsencrypt.log
+Hook 'deploy-hook' ran with error output:
+ 2026/11/23 18:41:46 [notice] 3442#3442: signal process started
